@@ -1,4 +1,4 @@
-# GEOG458 Lab2: Geo-tagged Tweets
+# GEOG458 Lab2: Geo-tagged Tweet Collection and Visualization
 ## Introduction
 I used the crawler to collect tweets in the same geographical areas, and two different times. I collected tweets from the U.S. region on sunday night, April 17th, and on Wednesday, April 20th. I wanted to compare these two different times beacuse April 17th was the Easter day, so I was interested in if there is a different behavior and pattern of using Twitter on holidays compared to normal work days. I used the crawler to collect tweets in the U.S. region on the Easter day in the evening, and collect the tweets on work day in the afternoon. The crawler worked for 10 minutes in both situations. 
 
